@@ -53,7 +53,7 @@ A Web Project Developed using the Tech Stack:
 
  	- Open Xampp
 
- 	- Start Xampp and SQL servers 
+ 	- Start Apache and SQL servers 
 	
 	- Open PhpMyAdmin adn Create a New DataBase
 
