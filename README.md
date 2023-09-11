@@ -2,15 +2,15 @@
 
 ## This Project was developed as a part of the Presidio's FullStack role Recruitment process
 ### I cleared this round but failed to clear the One on One Tech-Based Interview 
-### Hope this Helps you out!!
+### I Hope this Helps you out!!
 
 A Web Project Developed using the Tech Stack:
 
- Front-end : Bootstrap
+ Front-end: Bootstrap
 
- Back-end  : Php
+ Back-end: Php
 
- DataBase  : MySQL (Xampp)  
+ Database: MySQL (Xampp)  
 
 
  Types of Users:
@@ -26,28 +26,28 @@ A Web Project Developed using the Tech Stack:
 
 	- signup
 
-	- search based on place
+	- Search based on the place
 
-	- booking based on the availability of day (5 per day)
+	- Booking based on the availability of the day (5 per day)
 
-	- get the booking status (success, pending , rejected )
+	- Get the booking status (success, pending, rejected )
 
-	- logout
+	- Logout
 
 
  ### Admin Use Cases
 
- 	- login (for admin use separate UI)
+ 	- Log in (for admin use separate UI)
 
  	- Add places 
 
  	- Add services (water wash and basic services)
 
- 	- view all the bookings, filter based on place and date
+ 	- View all the bookings, filter based on place and date
 
  	- accept/reject  booking 
 	
-### How to setup the code:
+### How to set the code:
 
  	- Fork the Directory
 
@@ -55,12 +55,15 @@ A Web Project Developed using the Tech Stack:
 
  	- Start Apache and SQL servers 
 	
-	- Open PhpMyAdmin adn Create a New DataBase
+	- Open PhpMyAdmin and Create a New Database
 
  	- Import the given ** .sql ** file into the Database
 	
 	- Open ** index.html ** and enjoy the System
 	
 	-Admin User: admin Pass:admin123
-	
-** Last Edited :- 17|01|2023
+
+ ![image](https://github.com/easwar16/Car-Wash-Management-Application/assets/96469808/5bf33c9a-df35-4420-b548-a9c2d16cfbd8)
+ ![image](https://github.com/easwar16/Car-Wash-Management-Application/assets/96469808/5eefbf87-76d0-4c0c-887c-95f5d3749973)
+ ![image](https://github.com/easwar16/Car-Wash-Management-Application/assets/96469808/159912a6-6d89-4d3e-8a68-15cf493c9513)
+![image](https://github.com/easwar16/Car-Wash-Management-Application/assets/96469808/f5a9f721-5e7a-47c1-b6d0-82cb0a734a44)
